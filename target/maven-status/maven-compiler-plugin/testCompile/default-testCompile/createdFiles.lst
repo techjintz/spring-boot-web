@@ -1,0 +1,5 @@
+com/neo/domain/UserRepositoryTests.class
+com/neo/util/TestRedis.class
+com/neo/web/HelloControlerTests.class
+com/neo/ApplicationTests.class
+com/neo/web/ProPertiesTest.class
